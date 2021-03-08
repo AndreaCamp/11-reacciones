@@ -1,0 +1,45 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    background-color: rgb(207, 86, 132);
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 19px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.adalove{
+    color: rgb(173, 36, 36);
+}
+
+.lumar{
+    color: rgb(59, 59, 136);
+}
+
+
+.cande{
+    color: rgb(155, 7, 155);
+}
+
+.lucho{
+    color: rgb(76, 169, 201);
+}
+
+.martu{
+    color: rgb(19, 80, 19);
+}
+
+.reactions{
+    background-color: grey;
+}
+
+.date{
+    color: rgb(170, 166, 166);
+}
